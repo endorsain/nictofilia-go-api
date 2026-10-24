@@ -1,0 +1,14 @@
+# Entorno local y secretos
+.env
+.env.*
+!.env.example
+
+# Artefactos de Go
+/bin/
+/coverage.out
+/coverage.html
+
+# Archivos del sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
